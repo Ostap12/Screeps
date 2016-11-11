@@ -270,12 +270,12 @@
       <updated>1477654765025</updated>
       <workItem from="1477654768290" duration="557000" />
       <workItem from="1477684381420" duration="6538000" />
-      <workItem from="1478779903746" duration="3434000" />
+      <workItem from="1478779903746" duration="4068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10529000" />
+    <option name="totallyTimeSpent" value="11163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -427,7 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/melee.js">
+    <entry file="file://$PROJECT_DIR$/role.melee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -435,7 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/healer.js">
+    <entry file="file://$PROJECT_DIR$/role.healer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="2" />
